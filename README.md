@@ -1,4 +1,8 @@
-### WIP (Work In Progress) 👨🏻‍🔧
+## WIP (Work In Progress) 👨🏻‍🔧
+### Just a Software enginnering student 💻 fascinated by mathematics fields🧮
+> Feel free to connect to me on [Linkedln](https://www.linkedin.com/in/eliazonta/)
+
+
 
 <!--
 **eliazonta/eliazonta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
