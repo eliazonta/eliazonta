@@ -9,7 +9,7 @@
 
   👋🏻 Hi, I'm Elia Zonta, a Software Engineering Student from Italy 🇮🇹 🍝 🤌🏻
 
-  🔬 I'm currently studying for a bachelor's degree in Trento University Information Engineering Department
+  🔬 I'm currently studying for a bachelor's degree in Trento University's Information Engineering Department
 
 
   🎓 I graduated from I.T.I.S. Enrico Fermi High School in the **elettronics - automation** field
