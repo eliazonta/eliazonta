@@ -43,7 +43,7 @@
   <code><img title="Python" height="25" src="images/python.png"></code>
   <code><img title="Git" height="25" src="images/git.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="R" height="25" src="images/R_2.png"></code>
+  <code><img title="R" height="25" src="images/R_2.jpeg"></code>
   <code><img title="Bash" height="25" src="images/bash.png"></code>
   <code><img title="Kali" height="25" src="images/kali.jpeg"></code>
   <code><img title="OSX" height="25" src="images/osx.png"></code>
