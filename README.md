@@ -21,7 +21,7 @@
   💻 I love **solving problems**, *interact with people*, and explore **mathematics** fields 🧮
 
 
-  📚 I’m currently developing **new skills** and knowledge in Web3 tecnologies and Agile Project Managment 📊
+  📚 I’m currently developing **new skills** and knowledge in Web3 tecnologies 👨🏻‍💻 and Agile Project Managment 📊
 
 
   💬 Feel free to connect to me via [Linkedln](https://www.linkedin.com/in/eliazonta/) ⬅️ 😄
