@@ -45,7 +45,6 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="R" height="25" src="images/R_2.jpeg"></code>
   <code><img title="Bash" height="25" src="images/bash.png"></code>
-  <code><img title="Kali" height="25" src="images/kali.jpeg"></code>
   <code><img title="OSX" height="25" src="images/osx.png"></code>
 </p>
 <hr>
