@@ -27,7 +27,7 @@
   💬 Feel free to connect to me via [Linkedln](https://www.linkedin.com/in/eliazonta/) ⬅️ 😄
 
 
-
+<!--
 <hr>
 <h2 align="center">🎯👨🏻‍💻 Languages, Frameworks, Tools & Abilities 👨🏻‍💻🎯</h2>
 <br>
@@ -48,7 +48,7 @@
   <code><img title="OSX" height="25" src="images/osx.png"></code>
 </p>
 <hr>
-
+-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=eliazonta&theme=xcode&hide_border=true" width="100%"/>
 
