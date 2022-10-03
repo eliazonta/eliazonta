@@ -21,34 +21,11 @@
   💻 I love **solving problems**, *interact with people*, and explore **mathematics** fields 🧮
 
 
-  📚 I’m currently developing **new skills** and knowledge in Web3 tecnologies 👨🏻‍💻 and Agile Project Managment 📊
+  📚 I’m currently developing **new skills** and knowledge in Agile Project Managment 📊
 
 
   💬 Feel free to connect to me via [Linkedln](https://www.linkedin.com/in/eliazonta/) ⬅️ 😄
 
-
-<!--
-<hr>
-<h2 align="center">🎯👨🏻‍💻 Languages, Frameworks, Tools & Abilities 👨🏻‍💻🎯</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.png"></code>
-  <code><img title="C++" height="25" src="images/cpp.png"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemsolving.jpeg"></code>
-  <code><img title="HTML5" height="25" src="images/html.png"></code>
-  <code><img title="CSS" height="25" src="images/css.png"></code>
-  <code><img title="SASS" height="25" src="images/sass.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.png"></code>
-  <code><img title="React" height="25" src="images/react.png"></code>
-  <code><img title="Python" height="25" src="images/python.png"></code>
-  <code><img title="Git" height="25" src="images/git.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="R" height="25" src="images/R_2.jpeg"></code>
-  <code><img title="Bash" height="25" src="images/bash.png"></code>
-  <code><img title="OSX" height="25" src="images/osx.png"></code>
-</p>
-<hr>
--->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=eliazonta&theme=xcode&hide_border=true" width="100%"/>
 
