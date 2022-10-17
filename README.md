@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=3000&color=F7DC00&background=FBFFB600&center=true&vCenter=true&width=700&height=90&lines=Hello+there+I'm+Elia+%F0%9F%91%8B;currently+studying+%F0%9F%93%9A;and+constantly+improving+%F0%9F%A7%AE%F0%9F%91%8D)](https://git.io/typing-svg)
 
 <h5 align="center">
