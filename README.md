@@ -1,2 +1,4 @@
-[![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliazonta&count_private=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+# Hellew 👋
+> you are gonna see a cool README here sooner or later but that's not it rn since I'm overwhelmed with things to do 🥲
 
+[LinkedIn](https://www.linkedin.com/in/eliazonta/)
