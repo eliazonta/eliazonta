@@ -1,7 +1,7 @@
 # Hellew 👋
 
-* a genuine mixture of math, cs and QF
-* minimal aesthetics and reading books
+* A true blend of math, CS, and QF
+* Minimal aesthetics and book reading
 
 > Topics : Modern C++, GPGPUs, (Quantitative) Finance
 
