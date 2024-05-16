@@ -1,10 +1,8 @@
 # Hellew 👋
 
-* A true blend of math, CS, and QF
+* A true blend of math, CS, and Finance
 * Minimal aesthetics and book reading
 
-> Topics : Modern C++, GPGPUs, (Quantitative) Finance
-
-[LinkedIn](https://www.linkedin.com/in/eliazonta/) | [Webpage](https://eliazonta.github.io)
+[LinkedIn](https://www.linkedin.com/in/eliazonta/) 
 
 *"Simplicity is the ultimate sophistication." ~ Leonardo da Vinci*
